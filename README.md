@@ -2,7 +2,7 @@
 
 ## Description
 
-Un Side project, avec le park numérique pour développer une application de gestion du matériel.
+Correction de mon acien backend js
 
 ### Cloner le repo github en local
 cloner le repo github en local.
