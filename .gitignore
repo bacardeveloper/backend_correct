@@ -1,0 +1,8 @@
+# Dépendances
+/node_modules
+
+# Fichiers de journalisation
+*.log
+
+# Fichiers temporaires
+*.tmp
